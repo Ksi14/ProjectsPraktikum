@@ -8,3 +8,5 @@
 |["Анализ бизнес-показателей"](https://github.com/Ksi14/ProjectsPraktikum/tree/master/Business%20metrics)|Анализ продуктовых и маркетинговых метрик, метрик электронной коммерции с целью снижения маркетинговых затрат|Pandas, Matplotlib, Plotly, когортный анализ, юнит-экономика|
 |["Анализ заемщиков банка"](https://github.com/Ksi14/ProjectsPraktikum/tree/master/Credit%20analysis)          |Выявление факторов, влияющих на просрочку кредита, описание "хороших" и "плохих" заемщиков|Pandas, PyMystem3, лемматизация                                    |
 |["Анализ продаж компьютерных игр"](https://github.com/Ksi14/ProjectsPraktikum/tree/master/Games) |Выявление факторов, влияющих на успешность игры, на основе продаж, оценок, жанра и платформы |Pandas, Numpy, Scipy, Matplotlib, Plotly, исследовательский анализ данных  |
+|[Задание по SQL](https://github.com/Ksi14/ProjectsPraktikum/tree/master/SQL%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5) |Запросы к базе данных с информацией о книгах |Pandas, Sqlalchemy, SQL запросы|
+
